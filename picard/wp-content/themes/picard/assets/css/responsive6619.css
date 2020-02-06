@@ -1,0 +1,22 @@
+@media screen and (max-width: 991px){
+	
+}
+@media (max-width: 767px) {
+  .slidemenu-fixed {
+    width: 265px; }
+
+  .slidemenu-close {
+    left: -35px !important;
+    width: 35px !important;
+    height: 35px !important; } 
+	
+
+.widget_search form{ 
+	width: 215px !important; 
+  }
+  
+  .widget_search form .form-control{ 
+	width: 165px !important; 	  
+  }
+  
+}
